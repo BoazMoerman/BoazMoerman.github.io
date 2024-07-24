@@ -57,7 +57,7 @@
     {% elsif post.paperurl %}
       <p>DOI: <a href=" {{ post.paperurl }} ">{{ post.doi| default: "Download paper" }}</a></p>
     {% elsif post.arxiv %}
-      <p>Preprint: <a href="https://arxiv.org/abs/{{ post.arxiv }}">arXiv:{{ post.arxiv }}</a></p></p>
+      <p>Preprint: <a href="https://arxiv.org/abs/{{ post.arxiv }}">arXiv:{{ post.arxiv }}</a></p>
     {% endif %}
 
   </article>
