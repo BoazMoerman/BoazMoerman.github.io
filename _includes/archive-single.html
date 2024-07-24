@@ -53,17 +53,17 @@
     {% endif %}
     
     {% if post.citation and post.paperurl and post.arxiv %}
-      <p>{{ post.citation }}<br />DOI: <a href="{{ post.paperurl }}">{{ post.doi| default: "Download paper" }}</a> | <a href="https://arxiv.org/abs/{{ post.arxiv }}">Download Slides</a></p>
+      <p>{{ post.citation }}<br />DOI: <a href="{{ post.paperurl }}">{{ post.doi| default: "Download paper" }}</a> | Preprint: <a href="https://arxiv.org/abs/{{ post.arxiv }}">arXiv:{{ post.arxiv }}</a></p>
     {% elsif post.citation and post.paperurl %}
       <p>{{ post.citation }}<br />DOI: <a href="{{ post.paperurl }}">{{ post.doi| default: "Download paper" }}</a></p>
     {% elsif post.citation and post.arxiv %}
-      <p>{{ post.citation }}<br /><a href="https://arxiv.org/abs/{{ post.arxiv }}">Download Slides</a></p>
+      <p>{{ post.citation }}<br />Preprint: <a href="https://arxiv.org/abs/{{ post.arxiv }}">arXiv:{{ post.arxiv }}</a></p>
     {% elsif post.citation %}
       <p>{{ post.citation }}</p>
     {% elsif post.paperurl %}
       <p>DOI: <a href=" {{ post.paperurl }} ">{{ post.doi| default: "Download paper" }}</a></p>
     {% elsif post.arxiv %}
-      <p> <a href="https://arxiv.org/abs/{{ post.arxiv }}">Download Slides</a></p></p>
+      <p>Preprint: <a href="https://arxiv.org/abs/{{ post.arxiv }}">arXiv:{{ post.arxiv }}</a></p></p>
     {% endif %}
 
   </article>
