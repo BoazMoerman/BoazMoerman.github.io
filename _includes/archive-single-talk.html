@@ -33,7 +33,7 @@
       {% endif %}
     </h2>
     {% if post.date %}<p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.talktitle %}<p class="archive__item-excerpt" itemprop="description">{{post.talktitle}}</p>
+    {% if post.talktitle %}<p class="archive__item-excerpt" itemprop="description">{{post.talktitle}}</p>{% endif %}
     {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{ post.venue }},  {% if post.location %}{{post.location}}{% endif %}</p> {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
     {% if post.notes %} <p><a href=" {{ post.notes }} ">{{ notes }}</a></p> {% endif %}
