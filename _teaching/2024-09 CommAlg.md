@@ -1,6 +1,6 @@
 ---
 title: "Commutative Algebra"
-collection: tutorials
+collection: teaching
 type: "Exercise classes"
 permalink: /teaching/2024-CommAlg
 venue: "Mastermath at Utrecht University"
