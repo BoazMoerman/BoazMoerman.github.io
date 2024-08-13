@@ -4,6 +4,7 @@ collection: tutorials
 type: "Exercise classes"
 permalink: /teaching/2024-CommAlg
 venue: "Mastermath at Utrecht University"
-date: "Summer/Fall 2024"
+date: "2024-09-01"
+period: "September-December 2024"
 location: "Utrecht, the Netherlands"
 ---
