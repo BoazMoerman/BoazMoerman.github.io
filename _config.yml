@@ -214,7 +214,13 @@ collections:
     permalink: /:collection/:path/
   conferences:
     output: true
-    permalink: /:collection/:path/ 
+    permalink: /:collection/:path/
+  seminars:
+    output: true
+    permalink: /:collection/:path/
+  organized:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -281,7 +287,24 @@ defaults:
       author_profile: true
       share: true
       comments: true
-
+  # _seminars
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _organized
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
