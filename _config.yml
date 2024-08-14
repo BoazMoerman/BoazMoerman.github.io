@@ -224,6 +224,12 @@ collections:
   visits:
     output: true
     permalink: /:collection/:path/
+  conferences:
+    output: true
+    permalink: /:collection/:path/
+  theses:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -309,6 +315,15 @@ defaults:
       share: true
       comments: true
     # _visits
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _theses
   - scope:
       path: ""
       type: conferences
