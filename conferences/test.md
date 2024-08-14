@@ -1,6 +1,6 @@
 ---
 title: "L-values for conductor 32"
-collection: publications
+collection: conferences
 date: 2022-06-01
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0022314X21003279'
 arxiv: '2008.06749'
