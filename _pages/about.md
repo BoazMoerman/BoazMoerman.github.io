@@ -7,7 +7,7 @@ Alongside this, I am working on the connections between stacks and $\mathcal{M}$
 
 <h2 class="archive__item-title" itemprop="headline">Short CV
 </h2>
-09/2021-09/2025: PhD student at [Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute) \
-08/2021: Master in Mathematics at the [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) \
-07/2019: Bachelor in Mathematics at the [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) \
+09/2021-09/2025: PhD student at [Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute) <br />
+08/2021: Master in Mathematics at the [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) <br />
+07/2019: Bachelor in Mathematics at the [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) <br />
 [Extended CV]({{ base_path }}/files/CV Boaz Moerman.pdf)
