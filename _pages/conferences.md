@@ -9,5 +9,5 @@ author_profile: true
 
 
 {% for post in site.conferences %}
-  {% include archive-single.html %}
+  {% include archive-single-conference.html %}
 {% endfor %}
