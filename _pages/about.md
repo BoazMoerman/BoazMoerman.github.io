@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working in arithmetic geometry working under the supervision of [Marta Pieropan](https://webspace.science.uu.nl/~piero001/)
+I am a PhD student working in arithmetic geometry working under the supervision of [Marta Pieropan](https://webspace.science.uu.nl/~piero001/).
 
 <h2 class="archive__item-title" itemprop="headline">Research interests
 </h2>
