@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Boaz Moerman"
 title_separator          : "-"
 name                     : &name "Boaz Moerman"
-description              : &description "PhD candidate arithmetic geometry at Utrecht University"
+description              : &description "PhD candidate in arithmetic geometry at Utrecht University"
 url                      : https://boazmoerman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -221,6 +221,9 @@ collections:
   organized:
     output: true
     permalink: /:collection/:path/
+  visits:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -297,6 +300,15 @@ defaults:
       share: true
       comments: true
   # _organized
+  - scope:
+      path: ""
+      type: conferences
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+    # _visits
   - scope:
       path: ""
       type: conferences
