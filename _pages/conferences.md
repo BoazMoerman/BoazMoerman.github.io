@@ -13,6 +13,12 @@ author_profile: true
   {% include archive-single-conference.html %}
 {% endfor %}
 
+<h2 class="archive__item-title" itemprop="headline">Research visits
+</h2>
+{% for post in site.visits reversed %}
+  {% include archive-single-conference.html %}
+{% endfor %}
+
 <h2 class="archive__item-title" itemprop="headline">Conferences attended
 </h2>
 {% for post in site.conferences reversed %}
