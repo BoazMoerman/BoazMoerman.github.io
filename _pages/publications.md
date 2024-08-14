@@ -14,3 +14,9 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h1 class="archive__item-title" itemprop="headline">Theses
+</h1>
+{% for post in site.theses reversed %}
+  {% include archive-single.html %}
+{% endfor %}
