@@ -209,7 +209,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  talksseminar:
+    output: true
+    permalink: /:collection/:path/
+  talksresearch:
     output: true
     permalink: /:collection/:path/
   conferences:
