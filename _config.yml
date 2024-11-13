@@ -279,7 +279,17 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+
+      
+  # _talksseminar
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
+  # _talksresearch
   - scope:
       path: ""
       type: talks
