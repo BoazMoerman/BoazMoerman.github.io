@@ -5,6 +5,8 @@ permalink: /talks/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <h2 class="archive__item-title" itemprop="headline">Research talks
 </h2>
 {% for post in site.talksresearch reversed %}
