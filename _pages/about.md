@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student working in arithmetic geometry working under the supervision of dr. [Marta Pieropan](https://webspace.science.uu.nl/~piero001/).
+I am a researcher in aritmetic geometry. I have recently obtained my PhD degree at Utrecht University for my thesis "Generalized Campana points and toric varieties" written under supervision of Dr. [Marta Pieropan](https://webspace.science.uu.nl/~piero001/).
 
 <h2 class="archive__item-title" itemprop="headline">Research interests
 </h2>
