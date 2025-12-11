@@ -1,6 +1,6 @@
 ---
 title: "M-points of bounded height on toric varieties"
 collection: publications
-date: 2024-11-01
+date: 2025-12-30
 citation: 'In preparation'
 ---
