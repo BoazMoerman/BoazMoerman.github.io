@@ -1,6 +1,6 @@
 ---
-title: "Generalized Campana points of bounded height"
+title: "\\(\mathcal{M}\\)-points of bounded height"
 collection: publications
-date: 2024-11-01
-citation: 'In preparation'
+date: 2025-12-08
+arxiv: '2512.07654'
 ---
