@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Boaz Moerman"
 title_separator          : "-"
 name                     : &name "Boaz Moerman"
-description              : &description "Mathematician working in arithmetic geometry, recently obtained PhD in Utrecht University"
+description              : &description "Postdoctoral researcher working in arithmetic geometry at the Georg August University of Göttingen"
 url                      : https://boazmoerman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -24,11 +24,11 @@ author:
   avatar           : "P1022715_boaz-moerman (cropped).jpg"
   name             : "Boaz Moerman"
   pronouns         : # "he/him"  
-  bio              : "Mathematician working in arithmetic geometry, recently obtained PhD in Utrecht University"
-  location         : "Utrecht, the Netherlands"
-  employer         : "Utrecht University"
+  bio              : "Postdoctoral researcher working in arithmetic geometry at the Georg August University of Göttingen"
+  location         : "Göttingen, Germany"
+  employer         : "Georg August University of Göttingen "
   uri              : # URL
-  email            : "boazmoerman@gmail.com"
+  email            : "boaz.moerman@mathematik.uni-goettingen.de"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
