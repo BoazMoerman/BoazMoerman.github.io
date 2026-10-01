@@ -16,6 +16,7 @@ Alongside this, I am working on the connections between stacks and \\(\mathcal{M
 
 <h2 class="archive__item-title" itemprop="headline">Short CV
 </h2>
+10/2026-present: Postdoctoral researcher at [Georg-August University of Göttingen](https://www.uni-goettingen.de/en/20693.html) <br />
 09/2021-08/2025: PhD student at [Utrecht University](https://www.uu.nl/en/organisation/mathematical-institute) <br />
 08/2021: Master in Mathematics, [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) <br />
 07/2019: Bachelor in Mathematics, [Radboud University](https://www.ru.nl/en/departments/institute-for-mathematics-astrophysics-and-particle-physics/mathematics) <br />
