@@ -1,5 +1,5 @@
 ---
-title: "Rational points consortium meeting"
+title: "Mini-symposium on the occasion of the PhD defense of Mar Curcó-Iranzo"
 collection: conferences
 link: "https://www.rationalpoints.nl/events-2/"
 venue: "Utrecht University"
